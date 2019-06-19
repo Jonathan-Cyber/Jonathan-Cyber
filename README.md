@@ -1,2 +1,3 @@
-# Jonathan-Cyber
-Anonymous White Hat
+index.php
+kamus.php
+log_ask.txt
